@@ -11,7 +11,7 @@ kõige olulisemad on märgitud kui „kohustuslikud“.
 Teeme seda järk-järgult, sest nii meile see ülesanne antigi. Meile anti üks ülesanne ja me täitsime selle. Kui olime selle lõpetanud, liikusime edasi järgmise juurde.
 
 ## Diagrammid
-Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinnitamine ![kasutusjuhtude diagramm](kasutusjuhtude_diagramm.png)
+Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinnitamine ![kasutusjuhtude diagramm](diagrammid/kasutusjuhtude_diagramm.png)
 
 Üliõpilane, statistika, kaubandus, ülevaade ![klassidiagramm](diagrammid/klassidiagramm.png)
 
