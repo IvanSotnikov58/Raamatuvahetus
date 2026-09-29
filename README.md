@@ -16,7 +16,7 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
 Üliõpilane, statistika, kaubandus, ülevaade ![klassidiagramm](diagrammid/klassidiagramm.png)
 
 ## Paigutus
-Tegime seda järk-järgult, sest arvasin, et nii on mugavam töötada.)
+Tegime seda inkrementaalselt, sest arvasin, et nii on mugavam töötada.)
 ![Alusta](makett/statistika.png) ![Lõpp](makett/ocenivanie.png)
 
 ## Kuidas me töötasime
