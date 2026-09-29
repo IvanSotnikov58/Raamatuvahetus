@@ -17,7 +17,7 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
 
 ## Paigutus
 Tegime seda järk-järgult, sest arvasin, et nii on mugavam töötada.)
-![Alusta](makett/statistika (1).png) 1[Lõpp](makett/ocenivanie.png)
+![Alusta](makett/statistika (1).png) ![Lõpp](makett/ocenivanie.png)
 
 ## Kuidas me töötasime
 Tahv alguses ja lõpus: `protsess/`. Kolmelauseline tagasivaade:
