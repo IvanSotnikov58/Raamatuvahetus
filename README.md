@@ -15,6 +15,37 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
 
 Üliõpilane, statistika, kaubandus, ülevaade ![klassidiagramm](diagrammid/klassidiagramm.png)
 
+![mermaid](diagrammid/mermaid.png)
+ 	classDiagram
+  class Student {
+    +int age
+    +String name
+    +requestTrade()
+  }
+    class Book {
+    +String title
+    +String author
+    +date releaseDate
+    +getInfo()
+  }
+    class Trade {
+    -String place
+    -datetime time
+    -cancel() 
+    -accept()
+  }
+    class Review {
+    +int rating
+    +String comment
+    +date date
+    -int book_id
+    +addReview()
+  }
+  Student "1" --> "*" Book
+  Student "1" --> "*" Trade
+  Trade "1" --> "*" Book
+  Student "1" --> "*" Review
+
 ## Paigutus
 Tegime seda inkrementaalselt, sest arvasin, et nii on mugavam töötada.)
 ![Alusta](makett/statistika.png) ![Lõpp](makett/ocenivanie.png)
