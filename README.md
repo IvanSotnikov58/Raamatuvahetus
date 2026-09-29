@@ -11,13 +11,13 @@ kõige olulisemad on märgitud kui „kohustuslikud“.
 Teeme seda järk-järgult, sest nii meile see ülesanne antigi. Meile anti üks ülesanne ja me täitsime selle. Kui olime selle lõpetanud, liikusime edasi järgmise juurde.
 
 ## Diagrammid
-Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinnitamine ![kasutusjuhtude diagramm](diagrammid/Screenshot 2026-09-23 095833.png)
+Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinnitamine ![kasutusjuhtude diagramm](diagrammid/Screenshot2026-09-23095833.png)
 
-Üliõpilane, statistika, kaubandus, ülevaade ![klassidiagramm](diagrammid/Screenshot 2026-09-23 101355.png)
+Üliõpilane, statistika, kaubandus, ülevaade ![klassidiagramm](diagrammid/Screenshot2026-09-23101355.png)
 
 ## Paigutus
 Tegime seda järk-järgult, sest arvasin, et nii on mugavam töötada.)
-![Alusta](makett/statistika (1).png) ![Lõpp](makett/ocenivanie.png)
+![Alusta](makett/statistika(1).png) ![Lõpp](makett/ocenivanie.png)
 
 ## Kuidas me töötasime
 Tahv alguses ja lõpus: `protsess/`. Kolmelauseline tagasivaade:
