@@ -28,7 +28,7 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
     +date releaseDate
     +getInfo()
   }
-    class Trade {
+    class Exchange {
     -String place
     -datetime time
     -cancel() 
@@ -42,8 +42,8 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
     +addReview()
   }
   Student "1" --> "*" Book
-  Student "1" --> "*" Trade
-  Trade "1" --> "*" Book
+  Student "1" --> "*" Exchange
+  Exchange "1" --> "*" Book
   Student "1" --> "*" Review
 
 ## Paigutus
