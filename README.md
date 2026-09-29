@@ -46,6 +46,13 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
   Exchange "1" --> "*" Book
   Student "1" --> "*" Review
 
+## Vastused
+1. Pärast klassi ümbernimetamist näitasid commitid reamuudatusi: vanad read punasega ja uued read rohelisega.
+
+2. Kui oleksin PNG-faili asendanud, oleksid muudatused näidanud eemaldatud vana PNG-faili ja lisatud uut.
+
+3. Nad peavad nimesid jälgima, et kõik ei oleks igal pool erinevalt nimetatud.
+
 ## Paigutus
 Tegime seda inkrementaalselt, sest arvasin, et nii on mugavam töötada.)
 ![Alusta](makett/statistika.png) ![Lõpp](makett/ocenivanie.png)
