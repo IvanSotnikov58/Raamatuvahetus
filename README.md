@@ -47,7 +47,7 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
   Student "1" --> "*" Review
 
   VP
-  1. Vaates polnud "paanide" paneeli 1[view](diagrammid/vp/view_ei_ole_panes.png)
+  1. Vaates polnud "paanide" paneeli ![view](diagrammid/vp/view_ei_ole_panes.png)
   2. Ma ei tea, mis draw.io-s juhtuks.
 
 ## Vastused
