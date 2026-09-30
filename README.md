@@ -46,6 +46,10 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
   Exchange "1" --> "*" Book
   Student "1" --> "*" Review
 
+  VP
+  1. Vaates polnud "paanide" paneeli 1[view](diagrammid/vp/view_ei_ole_panes.png)
+  2. Ma ei tea, mis draw.io-s juhtuks.
+
 ## Vastused
 1. Pärast klassi ümbernimetamist näitasid commitid reamuudatusi: vanad read punasega ja uued read rohelisega.
 
