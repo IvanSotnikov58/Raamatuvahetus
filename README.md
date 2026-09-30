@@ -61,6 +61,8 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
 Tegime seda inkrementaalselt, sest arvasin, et nii on mugavam töötada.)
 ![Alusta](makett/statistika.png) ![Lõpp](makett/ocenivanie.png)
 
+## Vahendid
+Raamatuvahetuse süsteemi jaoks valisime draw.io, kuna seda on brauseris lihtne kasutada. Me ei vali PlantUML-i ega Mermaid'i, kuna need on tekstipõhised. Kui meeskond oleks suurem, valiksime ikkagi draw.io.
 ## Kuidas me töötasime
 Tahv alguses ja lõpus: `protsess/`. Kolmelauseline tagasivaade:
 Enamik ülesandeid täideti probleemideta. Välja arvatud kuues ülesanne. See nõudis ühendamist ja pidi hõlmama meeskonnatööd, aga ma töötasin üksi.
