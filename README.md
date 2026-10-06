@@ -50,6 +50,8 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
   1. Vaates polnud "paanide" paneeli ![view](diagrammid/vp/view_ei_ole_panes.png)
   2. Ma ei tea, mis draw.io-s juhtuks.
 
+## Projekti tüübid
+
 ## Vastused
 1. Pärast klassi ümbernimetamist näitasid commitid reamuudatusi: vanad read punasega ja uued read rohelisega.
 
