@@ -50,6 +50,29 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
   1. Vaates polnud "paanide" paneeli ![view](diagrammid/vp/view_ei_ole_panes.png)
   2. Ma ei tea, mis draw.io-s juhtuks.
 
+## Projekti tüübid
+ 	### (a) Uus funktsioon: <Vahetusstatistika>
+- Tüüp: olemasoleva arendus
+- Mis muutub: Lisatakse võimalus jälgida vahetusstatistikat "õpilase" klassis
+- Mis jääb samaks: Raamatute otsing jääb samaks
+- Peamine risk: Kuna statistikakontot varem ei eksisteerinud, võidi see õpilastele valesti lisada
+- Esimene samm: Esiteks otsustame, mis täpselt statistikasse läheb. See tähendab, mitu edukat vahetust, mitu unikaalset raamatut vahetati jne.
+- uus klass ei ilmu
+
+  ### (b) Platvorm vananes: <migratsioon MySQL-ist PostgreSQL-i>
+- Tüüp: üleviimine
+- Mis muutub: kõik andmebaasis salvestatud muutub: raamatud, arvustused, kasutajad, nende statistika jne.
+- Mis jääb samaks: liides
+- Peamine risk: Andmed võivad migreerimise ajal kaduma minna
+- Esimene samm: Enne migratsiooniga edasiliikumist uurime kõigepealt uut keskkonda
+
+  ### (c) Vaja on liidestada: <Google Calendar>
+- Tüüp:  liidestamine
+- Mis muutub: Lisame Google Calendar'i! Kõik kuupäevadega seotud muutub: vahetuse ajalugu, raamatu ilmumiskuupäev, arvustuse kuupäev
+- Mis jääb samaks: Kõik, mis pole kuupäevadega seotud
+- Peamine risk: Mõned kuupäevad võivad olla paigast ära
+- Esimene samm: Esiteks otsustame, miks me seda üldse vajame
+
 ## Vastused
 1. Pärast klassi ümbernimetamist näitasid commitid reamuudatusi: vanad read punasega ja uued read rohelisega.
 
