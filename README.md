@@ -50,8 +50,6 @@ Statistika, statistika, lisamine, kirjutamine, vaata vahetuse ajalugu, sisu kinn
   1. Vaates polnud "paanide" paneeli ![view](diagrammid/vp/view_ei_ole_panes.png)
   2. Ma ei tea, mis draw.io-s juhtuks.
 
-## Projekti tüübid
-
 ## Vastused
 1. Pärast klassi ümbernimetamist näitasid commitid reamuudatusi: vanad read punasega ja uued read rohelisega.
 
@@ -68,3 +66,30 @@ Raamatuvahetuse süsteemi jaoks valisime draw.io, kuna seda on brauseris lihtne 
 ## Kuidas me töötasime
 Tahv alguses ja lõpus: `protsess/`. Kolmelauseline tagasivaade:
 Enamik ülesandeid täideti probleemideta. Välja arvatud kuues ülesanne. See nõudis ühendamist ja pidi hõlmama meeskonnatööd, aga ma töötasin üksi.
+
+## Projektikaart
+
+**Teelija:** Õpilane, kes soovib raamatuid vahetada
+**Probleem:** Praegu on võimatu kindlaks teha, kas raamat on hea või mitte. Teave on saadaval ainult õpilase antud kirjelduse põhjal, kes seda teise raamatu vastu vahetab.
+
+**Eesmärk:** Pärast projekti valmimist on raamatu kvaliteeti lihtne rakendusest lahkumata kindlaks teha.
+
+**Tulemus:**
+
+* Identsete raamatute jaoks lisatakse arvustussüsteem.
+
+* Lisatakse täiendavat tehisintellekti teavet.
+
+* Raamatute arutelude jaoks lisatakse vestlused.
+
+**Kolmnurk:** Aeg: Paindlik; Raha/Inimesed: Puudub; töömaht: mitte väike. Fikseeritud: Aeg ja töömaht
+
+**Rollid:** Klient - Õpilane; Projektijuht - Mina; Meeskond - Programmeerijad; Sidusrühmad - Õpilased ja moderaatorid
+
+| Risk | Tõenäosus 1-3 | Mõju 1-3 | Mida me kõigepealt teeme |
+
+| Tehisintellekt hallutsineerib mingit jama | 3 | 2 | Proovib erinevaid tehisintellekti seadeid või mudelit, mis keelab tal ebausaldusväärsetest allikatest teabe hankimise |
+
+| Kasutud kommentaarid | 2 | 1 | Modereerimine kustutab põhjendamatud arvustused |
+
+**Edukriteeriumid:** Kui klient saab teha teadliku otsuse raamatu kvaliteedi kohta ilma rakendusest lahkumata
