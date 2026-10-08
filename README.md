@@ -92,4 +92,11 @@ Enamik ülesandeid täideti probleemideta. Välja arvatud kuues ülesanne. See n
 
 | Kasutud kommentaarid | 2 | 1 | Modereerimine kustutab põhjendamatud arvustused |
 
+| Vestluse rämpspost | 1 | 2 | Moderaator blokeerib nad |
+
 **Edukriteeriumid:** Kui klient saab teha teadliku otsuse raamatu kvaliteedi kohta ilma rakendusest lahkumata
+
+Asjad, mida klient võib vajada, aga mida me selles projektis ei tee:
+* Raamatute jagamiste ajaloo ja arvu vaatamine
+* ​​"Sarnaste raamatute" soovitamine tehisintellekti abil
+* Raamatu omaniku profiili ja arvustuste vaatamine.
